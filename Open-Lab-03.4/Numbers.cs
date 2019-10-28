@@ -6,7 +6,7 @@ namespace EvenOrOdd
 {
     class Numbers
     {
-        public static string EvenOrOdd(int number)
+        public string EvenOrOdd(int number)
         {
             string a = "even";
             string b = "odd";
